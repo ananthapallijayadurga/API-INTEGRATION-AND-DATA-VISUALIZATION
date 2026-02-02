@@ -12,10 +12,9 @@ DURATION:4 WEEKS
 
 MENTOR:NEELA SANTHOSH
 
-API integration and data visualization using Python for Codetech IT Solutions Pvt Ltd
-
 DESCRIPTION:
 Weather Forecast Visualization – Codetech IT Solutions Pvt Ltd
+
 Overview
 
 This project demonstrates API integration and data visualization using Python, aimed at providing a clear, interactive way to analyze weather trends. It fetches real-time weather forecast data for Hyderabad from the OpenWeatherMap API and visualizes key parameters such as temperature, humidity, and wind speed over a five-day period. The project showcases practical skills in API interaction, data processing, and visualization techniques, and is designed to run on a cross-platform Python environment including Windows, macOS, and Linux.
