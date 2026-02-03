@@ -90,6 +90,10 @@ Install Dependencies:
 
 pip install requests pandas matplotlib seaborn
 
+Run the script:
+
+python weather.py
+
 View Visualizations: Three line plots will be displayed, representing temperature, humidity, and wind speed trends for the city of Hyderabad.
 
 Purpose and Applications
